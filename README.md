@@ -8,13 +8,13 @@ Cảm biến: MAX30102 (nhịp tim, SpO2), DS18B20 (nhiệt độ).<br>
 Hiển thị: Màn hình OLED 0.96 inch.  <br>
 Nguồn: Pin Lithium 18650, mạch sạc TP4056, mạch Boost DC-DC MT3608.<br>
 Phần mềm: Android Studio (Java), Firebase Realtime Database.  <br>
-⚙️ Kỹ năng kỹ thuật đã áp dụng
-Thiết kế & Thi công: Tự tay vẽ layout và thi công mạch in (PCB) thủ công.
-Kỹ năng hàn: Hàn thành thạo linh kiện cắm (DIP), đảm bảo độ ổn định cho mạch nguồn và hệ thống.
-Truyền thông: Lập trình giao tiếp với cảm biến qua chuẩn I2C và 1-Wire.
-IoT & Cloud: Đồng bộ dữ liệu theo thời gian thực (Realtime) với Firebase.
-🖼 Hình ảnh dự án
-Phần cứng:
+⚙️ Kỹ năng kỹ thuật đã áp dụng<br>
+Thiết kế & Thi công: Tự tay vẽ layout và thi công mạch in (PCB) thủ công.<br>
+Kỹ năng hàn: Hàn thành thạo linh kiện cắm (DIP), đảm bảo độ ổn định cho mạch nguồn và hệ thống.<br>
+Truyền thông: Lập trình giao tiếp với cảm biến qua chuẩn I2C và 1-Wire.<br>
+IoT & Cloud: Đồng bộ dữ liệu theo thời gian thực (Realtime) với Firebase.<br>
+🖼 Hình ảnh dự án<br>
+Sơ đồ kết nối dây:<br>
 <img width="1352" height="461" alt="image" src="https://github.com/user-attachments/assets/45be719b-24b4-4d56-b6a2-4e5d71ed1650" />
 <img width="672" height="630" alt="image" src="https://github.com/user-attachments/assets/2b5ae7d4-6c76-4457-b159-57a12b85bbae" />
 <img width="783" height="550" alt="image" src="https://github.com/user-attachments/assets/9031dff3-fe93-467e-a491-f379a55b9a82" />
