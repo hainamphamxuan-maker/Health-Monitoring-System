@@ -19,6 +19,7 @@ Sơ đồ kết nối dây:<br>
 <img width="672" height="630" alt="image" src="https://github.com/user-attachments/assets/2b5ae7d4-6c76-4457-b159-57a12b85bbae" />
 <img width="783" height="550" alt="image" src="https://github.com/user-attachments/assets/9031dff3-fe93-467e-a491-f379a55b9a82" />
 <img width="963" height="623" alt="image" src="https://github.com/user-attachments/assets/081186ea-7aa7-4241-9e7e-374b6c311683" />
+Thiết kế mạch PCB:<br>
 <img width="608" height="629" alt="image" src="https://github.com/user-attachments/assets/5dd22228-3625-497f-96ec-9ee8b93302bf" />
 <img width="733" height="685" alt="image" src="https://github.com/user-attachments/assets/4ea1eeb8-a9ac-4067-9653-f8a0b7565d69" />
 <img width="562" height="875" alt="image" src="https://github.com/user-attachments/assets/1a9e86e5-5288-464a-8c1f-428d7943318d" />
