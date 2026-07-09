@@ -25,9 +25,9 @@ Thi công mạch PCB:<br>
 <img width="733" height="685" alt="image" src="https://github.com/user-attachments/assets/4ea1eeb8-a9ac-4067-9653-f8a0b7565d69" /><br>
 <img width="562" height="875" alt="image" src="https://github.com/user-attachments/assets/1a9e86e5-5288-464a-8c1f-428d7943318d" /><br>
 <img width="412" height="521" alt="image" src="https://github.com/user-attachments/assets/bb058fd6-a25a-4764-b147-3db3f808d2c5" /><br>
-Phần mềm:
-<img width="378" height="802" alt="image" src="https://github.com/user-attachments/assets/5d15db38-37c7-4b49-b560-42a9e24f4d3a" />
-<img width="386" height="808" alt="image" src="https://github.com/user-attachments/assets/deaf4003-f7fa-4017-b38c-8419733d6162" />
-<img width="374" height="799" alt="image" src="https://github.com/user-attachments/assets/4fb2bbef-3fc6-4271-b46b-cbb49914f748" />
-<img width="395" height="819" alt="image" src="https://github.com/user-attachments/assets/3200ccee-7ed9-4b52-896c-74be484f0af3" />
+Phần mềm:<br>
+<img width="378" height="802" alt="image" src="https://github.com/user-attachments/assets/5d15db38-37c7-4b49-b560-42a9e24f4d3a" /><br>
+<img width="386" height="808" alt="image" src="https://github.com/user-attachments/assets/deaf4003-f7fa-4017-b38c-8419733d6162" /><br>
+<img width="374" height="799" alt="image" src="https://github.com/user-attachments/assets/4fb2bbef-3fc6-4271-b46b-cbb49914f748" /><br>
+<img width="395" height="819" alt="image" src="https://github.com/user-attachments/assets/3200ccee-7ed9-4b52-896c-74be484f0af3" /><br>
 
