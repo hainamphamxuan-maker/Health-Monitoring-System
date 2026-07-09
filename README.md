@@ -1,13 +1,13 @@
 # Hệ thống Giám sát sức khỏe kết hợp Android<br>
-Chế tạo thiết bị di động nhỏ gọn giúp đo nhịp tim, nồng độ oxy (SpO2), nhiệt độ cơ thể và hiển thị trực quan lên màn hình OLED 0.96 inch.
-📋 Giới thiệu dự án
-Dự án được thiết kế để hỗ trợ giám sát sức khỏe cá nhân, tích hợp cảm biến đo nhịp tim, nồng độ oxy trong máu (SpO2) và nhiệt độ cơ thể. Dữ liệu được xử lý tại chỗ và hiển thị trực quan thông qua màn hình OLED, đồng thời được lưu trữ trên Firebase để theo dõi từ xa qua ứng dụng Android.
-🛠 Công nghệ & Linh kiện
-Vi điều khiển: ESP32.
-Cảm biến: MAX30102 (nhịp tim, SpO2), DS18B20 (nhiệt độ).
-Hiển thị: Màn hình OLED 0.96 inch.  
-Nguồn: Pin Lithium 18650, mạch sạc TP4056, mạch Boost DC-DC MT3608.
-Phần mềm: Android Studio (Java), Firebase Realtime Database.  
+Chế tạo thiết bị di động nhỏ gọn giúp đo nhịp tim, nồng độ oxy (SpO2), nhiệt độ cơ thể và hiển thị trực quan lên màn hình OLED 0.96 inch.<br>
+📋 Giới thiệu dự án<br>
+Dự án được thiết kế để hỗ trợ giám sát sức khỏe cá nhân, tích hợp cảm biến đo nhịp tim, nồng độ oxy trong máu (SpO2) và nhiệt độ cơ thể. Dữ liệu được xử lý tại chỗ và hiển thị trực quan thông qua màn hình OLED, đồng thời được lưu trữ trên Firebase để theo dõi từ xa qua ứng dụng Android.<br>
+🛠 Công nghệ & Linh kiện<br>
+Vi điều khiển: ESP32.<br>
+Cảm biến: MAX30102 (nhịp tim, SpO2), DS18B20 (nhiệt độ).<br>
+Hiển thị: Màn hình OLED 0.96 inch.  <br>
+Nguồn: Pin Lithium 18650, mạch sạc TP4056, mạch Boost DC-DC MT3608.<br>
+Phần mềm: Android Studio (Java), Firebase Realtime Database.  <br>
 ⚙️ Kỹ năng kỹ thuật đã áp dụng
 Thiết kế & Thi công: Tự tay vẽ layout và thi công mạch in (PCB) thủ công.
 Kỹ năng hàn: Hàn thành thạo linh kiện cắm (DIP), đảm bảo độ ổn định cho mạch nguồn và hệ thống.
